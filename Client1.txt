@@ -1,0 +1,9 @@
+get p
+set KEY1 VAL1
+get KEY1
+set KEY1 VAL2
+set KEY2 VAL3
+get KEY2
+setsize KEY2 10000
+setsize KEY3 100000
+printkv

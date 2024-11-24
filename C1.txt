@@ -1,0 +1,7 @@
+setsize KEY1 100000000
+get KEY1
+get KEY1
+printkv
+setsize KEY1 100000000
+get KEY1
+printkv

@@ -1,0 +1,18 @@
+setsize KEY2 10000000
+printkv
+get KEY1
+printkv
+get KEY1
+printkv
+setsize KEY2 10000000
+printkv
+get KEY1
+printkv
+get KEY1
+printkv
+setsize KEY3 200000000
+printkv
+get KEY1
+printkv
+get KEY1
+printkv

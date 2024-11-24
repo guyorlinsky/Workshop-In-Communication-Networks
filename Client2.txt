@@ -1,0 +1,5 @@
+set KEY2 VAL4
+set KEY4 VAL5
+setsize KEY5 70700
+get KEY5
+printkv
